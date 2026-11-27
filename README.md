@@ -21,7 +21,6 @@ Real public data, with every number checked and reproducible.
 ### More projects
 | Project | What it shows |
 |---------|---------------|
-| [**Chronic Disease Analytics**](https://github.com/nic-stack/Chronic-disease-analytics) | PostgreSQL OLTP → OLAP data warehouse, SQL ETL and analytical queries |
 | **Power BI Dashboards** | Insurance profitability and Adventure Works sales dashboards (see my [portfolio](https://nic-stack.github.io/NicoletteMtisi/#projects)) |
 | [**Data Science Portfolio (11 projects)**](https://github.com/nic-stack/DAV6150-Data-Science-Portfolio) | Coursework covering data cleaning, regression, classification, clustering, XGBoost and neural networks |
 | [**Twitter Sentiment Analysis**](https://github.com/nic-stack/Twitter-Sentiment-Analysis) | NLP on customer feedback, later extended with [DistilBERT](https://huggingface.co/spaces/Nicolettem/bert_sentiment_demo) |
