@@ -24,7 +24,6 @@ Real public data, with every number checked and reproducible.
 | [**US Flight Delays Dashboard**](https://github.com/nic-stack/USA-Flight-Delays-and-Cancellation-Analysis) | Interactive Tableau analysis of delays and cancellations by cause, airline and airport |
 | **Power BI Dashboards** | Insurance profitability and Adventure Works sales dashboards (see my [portfolio](https://nic-stack.github.io/NicoletteMtisi/#projects)) |
 | [**Data Science Portfolio (11 projects)**](https://github.com/nic-stack/DAV6150-Data-Science-Portfolio) | Coursework covering data cleaning, regression, classification, clustering, XGBoost and neural networks |
-| [**Predictive Maintenance**](https://github.com/nic-stack/predictive-maintenance) | Machine failure prediction with a stacking ensemble |
 | [**Twitter Sentiment Analysis**](https://github.com/nic-stack/Twitter-Sentiment-Analysis) | NLP on customer feedback, later extended with [DistilBERT](https://huggingface.co/spaces/Nicolettem/bert_sentiment_demo) |
 
 ## 🛠️ Toolkit
