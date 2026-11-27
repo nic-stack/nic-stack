@@ -10,7 +10,7 @@
 ## 🔭 Featured Projects
 | Project | What it shows |
 |---------|---------------|
-| [**Healthcare Claims Pipeline**](https://github.com/nic-stack/healthcare-claims-pipeline) | SQL + dbt star schema with 17 automated data quality tests, feeding a [live Looker Studio report](https://datastudio.google.com/reporting/eace8e82-8d3e-4900-87ff-2888bff6126c) |
+| [**Medicare Payment Variation**](https://github.com/nic-stack/medicare-payment-variation) | dbt + DuckDB pipeline on 9.78M rows of 2024 CMS data with 19 data tests and a Tableau dashboard: state gaps in office-visit payments are mostly local cost, imaging gaps largely reflect what was billed |
 | [**Chronic Disease Analytics**](https://github.com/nic-stack/Chronic-disease-analytics) | PostgreSQL OLTP → OLAP data warehouse, SQL ETL and analytical queries |
 | [**US Flight Delays Dashboard**](https://github.com/nic-stack/USA-Flight-Delays-and-Cancellation-Analysis) | Interactive Tableau analysis of delays and cancellations by cause, airline and airport |
 | **Power BI Dashboards** | Insurance profitability and Adventure Works sales dashboards (see my [portfolio](https://nic-stack.github.io/NicoletteMtisi/#projects)) |
